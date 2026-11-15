@@ -1,5 +1,5 @@
 class PrayerModel {
-  Map<String, String> prayerModel;
+  Map<String, dynamic> prayerModel;
 
   PrayerModel({required this.prayerModel});
 
